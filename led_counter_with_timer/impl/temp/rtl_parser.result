@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/led_counter_with_timer/src/led_counter.vhd",
+  "InstLine" : 6,
+  "InstName" : "led_counter",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/led_counter_with_timer/src/led_counter.vhd",
+  "ModuleLine" : 6,
+  "ModuleName" : "led_counter"
+ }
+]
