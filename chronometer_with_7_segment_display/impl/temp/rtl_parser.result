@@ -1,0 +1,44 @@
+[
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/top_modul.vhd",
+  "InstLine" : 6,
+  "InstName" : "top_modul",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/top_modul.vhd",
+  "ModuleLine" : 6,
+  "ModuleName" : "top_modul",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/top_modul.vhd",
+    "InstLine" : 70,
+    "InstName" : "i_second_bcd_increment",
+    "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/bcd_incrementor.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "bcd_incrementor"
+   },
+   {
+    "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/top_modul.vhd",
+    "InstLine" : 83,
+    "InstName" : "i_minute_bcd_increment",
+    "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/bcd_incrementor.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "bcd_incrementor"
+   },
+   {
+    "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/top_modul.vhd",
+    "InstLine" : 98,
+    "InstName" : "i_second_first_digit",
+    "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/bcd_to_seven_segment.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "bcd_to_sevenseg"
+   },
+   {
+    "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/top_modul.vhd",
+    "InstLine" : 104,
+    "InstName" : "i_second_second_digit",
+    "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/chronometer_with_7_segment_display/src/bcd_to_seven_segment.vhd",
+    "ModuleLine" : 6,
+    "ModuleName" : "bcd_to_sevenseg"
+   }
+  ]
+ }
+]

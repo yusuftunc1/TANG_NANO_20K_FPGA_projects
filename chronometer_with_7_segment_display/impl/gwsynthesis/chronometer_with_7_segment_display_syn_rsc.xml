@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top_modul" Register="41" Lut="51" T_Register="49(41)" T_Lut="75(51)">
+ <SubModule name="i_second_bcd_increment" Register="8" Lut="10" T_Register="8(8)" T_Lut="10(10)"/>
+ <SubModule name="i_second_first_digit" Lut="7" T_Lut="7(7)"/>
+ <SubModule name="i_second_second_digit" Lut="7" T_Lut="7(7)"/>
+</Module>
