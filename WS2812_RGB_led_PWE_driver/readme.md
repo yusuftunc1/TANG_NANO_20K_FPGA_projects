@@ -12,7 +12,11 @@ Because of this, precise timing is critical and makes WS2812 a good example of:
 - Cycle-accurate digital design  
 - FSM-based protocol implementation  
 - FPGA-driven LED control  
-This project demonstrates how the WS2812 protocol can be implemented purely in hardware, without a CPU or softcore.
+
+This project demonstrates how the WS2812 protocol can be implemented purely in hardware, without a CPU or softcore.  
+WS2812 LEDs use a strictly timed single-wire protocol. Each data bit is transmitted within a 1.25 µs time window, where the logic value is determined by the duration of the HIGH pulse.  
+
+<img width="908" height="548" alt="image" src="https://github.com/user-attachments/assets/a675557f-54df-4a3e-b6d4-ade988c04f17" />
 
 🔧 Features
 ---
