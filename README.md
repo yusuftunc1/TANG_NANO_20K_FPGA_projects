@@ -22,7 +22,8 @@ The projects in this repository address the following topics:
 ---
 -  Target FPGA Board: Tang Nano 20K  
 -  Hardware Description Language: VHDL  
--  EDA Toolchain: Gowin EDA  
+-  EDA Toolchain: Gowin EDA
+-  Simulation: GHDL and GtkWave
 
 All designs are intended to be fully synthesizable and verified on real hardware.  
 
