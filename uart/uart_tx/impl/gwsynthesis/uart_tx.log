@@ -1,0 +1,31 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\uart_tx.vhd'
+Analyzing entity 'uart_tx'("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\uart_tx.vhd":5)
+Analyzing architecture 'behavioral'("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\uart_tx.vhd":20)
+Analyzing VHDL file 'C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\tb_uart_tx.vhd'
+Analyzing entity 'tb_uart_tx'("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\tb_uart_tx.vhd":5)
+Analyzing architecture 'behavioral'("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\tb_uart_tx.vhd":13)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\tb_uart_tx.vhd":62)
+Statement containing an event control without an edged expression will not be converted to an explicit state machine("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\tb_uart_tx.vhd":92)
+Processing 'uart_tx(behavioral)'("C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\src\uart_tx.vhd":5)
+NOTE  (EX0101) : Current top module is "uart_tx"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\impl\gwsynthesis\uart_tx.vg" completed
+[100%] Generate report file "C:\Users\yusuf\Desktop\FPGA\Projects\uart\uart_tx\impl\gwsynthesis\uart_tx_syn.rpt.html" completed
+GowinSynthesis finish

@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/src/tb_uart_tx.vhd",
+  "InstLine" : 5,
+  "InstName" : "tb_uart_tx",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/src/tb_uart_tx.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "tb_uart_tx",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/src/tb_uart_tx.vhd",
+    "InstLine" : 40,
+    "InstName" : "DUT",
+    "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/src/uart_tx.vhd",
+    "ModuleLine" : 5,
+    "ModuleName" : "uart_tx"
+   }
+  ]
+ }
+]

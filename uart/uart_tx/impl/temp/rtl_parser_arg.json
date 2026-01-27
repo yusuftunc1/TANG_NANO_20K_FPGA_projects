@@ -1,0 +1,23 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/src/tb_uart_tx.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/src/uart_tx.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/uart/uart_tx/impl/temp/rtl_parser.result",
+ "Top" : "uart_tx",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
