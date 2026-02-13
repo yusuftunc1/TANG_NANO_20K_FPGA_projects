@@ -34,9 +34,9 @@ WS2812 LEDs use a strictly timed single-wire protocol. Each data bit is transmit
 
 🛠️ Tools Used
 ---
--VHDL
--Gowin EDA
--Tang Nano FPGA
+- VHDL  
+- Gowin EDA  
+- Tang Nano FPGA  
 
 📌 Notes
 ---
