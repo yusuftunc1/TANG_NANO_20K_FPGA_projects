@@ -1,4 +1,4 @@
-📟 UART TX (VHDL)
+📟 UART RX (VHDL)
 ---
   This project implements a UART Receiver (RX) in VHDL together with a self-written testbench.  
   The design is verified via RTL simulation using **GHDL** and waveform inspection with **GTKWave**.  
