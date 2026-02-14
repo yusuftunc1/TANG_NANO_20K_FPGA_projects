@@ -62,6 +62,7 @@ The simulation ends with an intentional assertion message (SIM DONE), indicating
 
 📌 Notes
 ---
+- UART RX input: Pin 70 of the FPGA
 - The design is vendor-agnostic and can be synthesized for different FPGA platforms.
 - Simulation is performed outside the vendor toolchain due to educational license limitations.
 - The project focuses on clarity and learning-oriented structure.
